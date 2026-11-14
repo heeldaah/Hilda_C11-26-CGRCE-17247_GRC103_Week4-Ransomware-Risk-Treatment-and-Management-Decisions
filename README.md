@@ -89,11 +89,12 @@ It also highlights that cyber insurance does not replace the need for effective 
 
 ## Project Files
 
+## Project Files
+
 | File | Description |
 |---|---|
-| `[GRC103_Ransomware_Risk_Treatment_Report](./GRC103_Ransomware_Risk_Treatment_Report.pdf) ` | Detailed report covering the case analysis, risk assessment, treatment decisions, insurance calculations, revised strategy, 30-day implementation plan and board memo. |
-| `[GRC103_Ransomware_Risk_Treatment_Workbook](.GRC103_Ransomware_Risk_Treatment_Workbook.xlsx)` | Supporting Excel workbook containing the risk register, budget and treatment decisions, insurance calculations, decision log and 30-day implementation plan. |
-
+| [Ransomware Risk Treatment Report](./GRC103_Ransomware_Risk_Treatment_Report.pdf) | PDF report covering the case analysis, risk assessment, treatment decisions, insurance calculations and management recommendations. |
+| [Ransomware Risk Treatment Workbook](./GRC103_Ransomware_Risk_Treatment_Workbook.xlsx) | Excel workbook containing the risk register, budget allocation, insurance calculations, decision log and 30-day implementation plan. |
 ## Methodology and Limitations
 
 The assessment applies risk assessment and treatment principles using the scenario information and assumptions provided in the assignment brief.
